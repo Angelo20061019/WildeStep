@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wild_step
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# WildeStep
+>>>>>>> 5d8482c91a7efa7ecc3cc6913f8df082f041331a
