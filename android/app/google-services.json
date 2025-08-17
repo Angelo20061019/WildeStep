@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736802989796",
+    "project_id": "wild-steps",
+    "storage_bucket": "wild-steps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736802989796:android:361725d317b016f1f7eef1",
+        "android_client_info": {
+          "package_name": "com.example.wild_step"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHs9ogxsirM8kan04k20XRQ8SRJeZUOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
